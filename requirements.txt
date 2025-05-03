@@ -1,0 +1,5 @@
+feedparser
+requests
+playwright
+tenacity
+python-dotenv

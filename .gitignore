@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.log
+state.json
+cybersec_news.db
+.env
